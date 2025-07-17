@@ -1,3 +1,6 @@
+<img width="1920" height="968" alt="Screenshot (1806)" src="https://github.com/user-attachments/assets/f414a572-1ed1-4860-9267-cf592bedcbb6" />
+<img width="1903" height="958" alt="Screenshot (1805)" src="https://github.com/user-attachments/assets/48780850-e0d9-4fe0-8d4f-9999ba7998a0" />
+<img width="1887" height="1024" alt="Screenshot (1804)" src="https://github.com/user-attachments/assets/54d70e96-20af-4b30-a76f-321946379ca8" />
 Project Name:
 Kata: Sweet Shop Management System
 
